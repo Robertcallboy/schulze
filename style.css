@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+    line-height: 0.%;
+}
+.A{
+    font-size: large;
+    color: white;
+    background-color: black;
+}
+.B{
+    margin: 50px 60px 60px;
+   display: list-item;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.BB{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: 600;
+    color: black;
+    text-align: center;
+}
+.F{
+    margin-top: 15rem;
+    margin-bottom: 4.5rem;
+}
+h3{
+ text-align: center;
+}
